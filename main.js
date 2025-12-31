@@ -398,7 +398,7 @@ Built with modern web technologies:
 - Various animation libraries
 
 Feel free to explore the code!
-- Patrick Jake Bina
+- Patrick Jake Biña
 `);
 
 // Performance monitoring
